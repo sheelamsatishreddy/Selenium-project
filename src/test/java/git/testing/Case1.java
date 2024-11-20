@@ -15,5 +15,8 @@ public class Case1 {
 	public void case1test3() {
 		System.out.println("Case1 test3");
 	}
+	public void case1test4() {
+		System.out.println("Case1 test4");
+	}
 	
 }
