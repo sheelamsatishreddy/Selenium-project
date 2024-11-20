@@ -8,9 +8,5 @@ public class case2 {
 		System.out.println("Case 2 Test 1");
 	}
 	
-public static void case2Test2() {
-		
-		System.out.println("Case 2 Test 2");
-	}
 	
 }
