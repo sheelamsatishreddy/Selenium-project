@@ -12,5 +12,8 @@ public class Case1 {
 		System.out.println("Case1 test2");
 	}
 	
+	public void case1test3() {
+		System.out.println("Case1 test3");
+	}
 	
 }
